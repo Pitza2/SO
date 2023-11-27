@@ -1,0 +1,5 @@
+nume director: .
+identificatorul utilizatorului: 1000
+drepturi de access user RWX
+drepturi de access group RWX
+drepturi de access other R-X

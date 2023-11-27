@@ -180,12 +180,29 @@ int main (int argc, char **argv)
             exit(-1);
           }
           if(idgrayscale==0){
+            close(file);
+            file=open(filepath,O_RDWR);
             convert_to_grayscale(file);
             exit(0);
           }else{
            int status=-1;
-           int i= wait(&status);
+           int i= waitpid(idgrayscale,&status,0);
            printf("process ended with status %d and pid %d\n",status,i);
+           if(WIFEXITED(status)){
+            printf("1\n");
+           }else if( WIFSIGNALED(status)){
+            printf("2\n");
+           }else if(WTERMSIG(status)){
+            printf("3\n");
+           }else if(WCOREDUMP(status)){
+            printf("4\n");
+           }else if(WIFSTOPPED(status)){
+            printf("5\n");
+           }else if(WSTOPSIG(status)){
+            printf("6\n");
+           }else if(WIFCONTINUED(status)){
+            printf("7\n");
+           }
          }
           }
 

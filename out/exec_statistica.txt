@@ -1,0 +1,7 @@
+nume fisier: exec
+file total size is: 21168
+number of hard links: 1
+User ID of Owner: 1000
+drepturi de access user RWX
+drepturi de access group RWX
+drepturi de access other R-X
