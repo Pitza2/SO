@@ -1,0 +1,7 @@
+nume fisier: imagine_4.bmp
+inaltime:-1288699904
+ lungime:45
+dimensiunea fisierului: 2995046
+drepturi de access user RW-
+drepturi de access group RW-
+drepturi de access other R--

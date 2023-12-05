@@ -1,8 +1,7 @@
 nume fisier: imagine_1.bmp
-rezolution is 467x467
-file total size is: 219634
-number of hard links: 1
-User ID of Owner: 1000
+inaltime:1438384128
+ lungime:3
+dimensiunea fisierului: 219634
 drepturi de access user RW-
 drepturi de access group RW-
 drepturi de access other R--

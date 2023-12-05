@@ -1,7 +1,0 @@
-nume fisier: readme.md
-file total size is: 11
-number of hard links: 1
-User ID of Owner: 1000
-drepturi de access user RW-
-drepturi de access group RW-
-drepturi de access other R--

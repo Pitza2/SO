@@ -1,0 +1,7 @@
+nume fisier: imagine_3.bmp
+inaltime:0
+ lungime:0
+dimensiunea fisierului: 196666
+drepturi de access user RW-
+drepturi de access group RW-
+drepturi de access other R--
