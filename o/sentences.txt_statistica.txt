@@ -1,5 +1,5 @@
-nume fisier: 876105.png
-dimensiunea fisierului: 3699068
+nume fisier: sentences.txt
+dimensiunea fisierului: 74
 drepturi de access user RW-
 drepturi de access group RW-
 drepturi de access other R--

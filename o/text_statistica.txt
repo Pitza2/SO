@@ -1,5 +1,5 @@
 nume fisier: text
-dimensiunea fisierului: 139
+dimensiunea fisierului: 44
 drepturi de access user RW-
 drepturi de access group RW-
 drepturi de access other R--
